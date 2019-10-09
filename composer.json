@@ -1,0 +1,10 @@
+{
+    "require": {
+        "firebase/php-jwt": "5.0.*",
+        "symfony/http-foundation": "^3.4",
+    },
+    "autoload": {
+        "psr-4": { "Api\\": "src\\"}
+    }
+    
+}
